@@ -31,7 +31,7 @@ steps:
 
 - task: AzureRmWebAppDeployment@3
   inputs:
-    azureSubscription: '<Azure service connections>'
+    azureSubscription: 'connection-to-pipelinesjavascript'
     WebAppName: 'pipelinesjavascriptjv'
     Package: '$(System.DefaultWorkingDirectory)'
     GenerateWebConfig: true
