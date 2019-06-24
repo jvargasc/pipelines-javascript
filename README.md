@@ -1,5 +1,7 @@
-[![Build Status](https://jvargasc.visualstudio.com/pipelines-javascript/_apis/build/status/jvargasc.pipelines-javascript?branchName=master)](https://jvargasc.visualstudio.com/pipelines-javascript/_build/latest?definitionId=20&branchName=master)
-[![Build Status](https://dev.azure.com/jvargasc/pipelines-javascript/_apis/build/status/pipelinesjavascriptjv%20-%20CI?branchName=master)](https://dev.azure.com/jvargasc/pipelines-javascript/_build/latest?definitionId=34&branchName=master)
+| Example | Build status |
+|---------|--------------|
+| Build   |[![Build Status](https://jvargasc.visualstudio.com/pipelines-javascript/_apis/build/status/jvargasc.pipelines-javascript?branchName=master)](https://jvargasc.visualstudio.com/pipelines-javascript/_build/latest?definitionId=20&branchName=master)|
+| Build   |[![Build Status](https://dev.azure.com/jvargasc/pipelines-javascript/_apis/build/status/pipelinesjavascriptjv%20-%20CI?branchName=master)](https://dev.azure.com/jvargasc/pipelines-javascript/_build/latest?definitionId=34&branchName=master)|
 
 # Sample NodeJS application for Azure Pipelines docs
 
